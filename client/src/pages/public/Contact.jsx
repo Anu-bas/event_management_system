@@ -74,7 +74,7 @@ export default function Contact() {
               >
                 📧 Email
               </h4>
-              <p style={{ color: "#64748b", fontSize: "12px",paddingLeft:"25px" }}>
+              <p style={{ color: "#64748b", fontSize: "12px", paddingLeft: "25px" }}>
                 anushree24anu@gmail.com
               </p>
             </div>
@@ -89,7 +89,7 @@ export default function Contact() {
               >
                 📍 Address
               </h4>
-              <p style={{ color: "#64748b",fontSize: "12px",paddingLeft:"25px" }}>
+              <p style={{ color: "#64748b", fontSize: "12px", paddingLeft: "25px" }}>
                 Student Activity Center, Block C
               </p>
             </div>
@@ -103,7 +103,7 @@ export default function Contact() {
               >
                 🕒 Response Time
               </h4>
-              <p style={{ color: "#64748b",fontSize: "12px",paddingLeft:"25px" }}>
+              <p style={{ color: "#64748b", fontSize: "12px", paddingLeft: "25px" }}>
                 Within 24 Hours
               </p>
             </div>
@@ -133,12 +133,12 @@ export default function Contact() {
               name="_template"
               value="table"
             />
-
             <input
               type="hidden"
               name="_next"
-              value="http://localhost:5173/contact"
+              value="https://event-leaf16.vercel.app/contact"
             />
+
 
             {/* Name */}
             <div className="formfield">
