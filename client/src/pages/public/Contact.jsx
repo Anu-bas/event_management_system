@@ -136,7 +136,7 @@ export default function Contact() {
             <input
               type="hidden"
               name="_next"
-              value="https://event-one-iota.vercel.app/contact"
+              value="https://event-leaf16.vercel.app/contact"
             />
 
 
