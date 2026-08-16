@@ -17,7 +17,6 @@ const app = express();
 
 const allowedOrigins = [
     "http://localhost:5173",
-    "https://event-leaf16.vercel.app",
     "https://event-one-iota.vercel.app"
 ];
 
